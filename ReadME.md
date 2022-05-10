@@ -19,9 +19,12 @@ pip install -r requirements.txt
 
 ## Authors
 
-Simon Druchinin  
+Clear Code (Original)
+[@Clear Code](https://www.youtube.com/watch?v=QFvqStqPCRU&t=5748s)
+
+Simon Druchinin (Editor)
 [@simon_druchinin](https://t.me/simon_druchinin)
 
 ## License
 
-Everything is free to use. Ony music has copyrights.
+Everything is free to use. Only music has copyrights.
